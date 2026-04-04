@@ -113,15 +113,6 @@ python
 ### Feature Importance – Yếu tố quan trọng nhất
 
 ![Các yếu tố quan trọng nhất quyết định dự báo thời tiết](f1.png)
-| Thứ tự | Đặc trưng | Mức độ quan trọng |
-|--------|-----------|-------------------|
-| 1 | Humidity (Độ ẩm) | ⭐⭐⭐⭐ |
-| 2 | Temp (Nhiệt độ) | ⭐⭐⭐⭐ |
-| 3 | Pressure (Áp suất) | ⭐⭐⭐ |
-| 4 | Heat Index | ⭐⭐⭐ |
-| 5 | Cloud (Độ mây) | ⭐⭐⭐ |
-
-> **Độ ẩm là yếu tố quan trọng nhất để dự báo trạng thái thời tiết tại TP. Hồ Chí Minh!**
 
 ---
 
