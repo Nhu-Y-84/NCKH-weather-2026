@@ -112,7 +112,7 @@ python
 
 ### Feature Importance – Yếu tố quan trọng nhất
 
-![Các yếu tố quan trọng nhất quyết định dự báo thời tiết](Screenshot 2026-04-04 183906.png)
+![Các yếu tố quan trọng nhất quyết định dự báo thời tiết](f1.png)
 | Thứ tự | Đặc trưng | Mức độ quan trọng |
 |--------|-----------|-------------------|
 | 1 | Humidity (Độ ẩm) | ⭐⭐⭐⭐ |
